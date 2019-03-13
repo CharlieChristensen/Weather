@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Pillar Excercise</string>
+    <string name="humidity">Humidity:</string>
+    <string name="pressure">Pressure:</string>
+    <string name="temperature">Temperature:</string>
+    <string name="f">F</string>
+    <string name="c">C</string>
+    <string name="loading">Loading...</string>
+    <string name="cant_find_data_error">Cannot find forecast data.</string>
+    <string name="weather_forecast">Weather Forecast</string>
+    <string name="city_name">City Name</string>
+    <string name="search">Search</string>
+    <string name="lat_long_title">Lat: %s Long: %s</string>
+    <string name="dash">-</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="zip_code">Zip Code</string>
+</resources>
